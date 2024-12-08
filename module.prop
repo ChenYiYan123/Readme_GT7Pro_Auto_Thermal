@@ -1,0 +1,7 @@
+id=gt7pro_auto_horea
+name=GT7Pro自动温控
+version=1.0
+versionCode=1.0
+author=酷安@我是江小白_
+description=根据系统相机是否前台运行自动打开温度传感器，以解决关闭温控后长焦无法对焦
+updateJson=
